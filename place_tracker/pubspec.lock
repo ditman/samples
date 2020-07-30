@@ -105,7 +105,7 @@ packages:
     description:
       path: "packages/google_maps_flutter/google_maps_flutter"
       ref: gmaps-web
-      resolved-ref: "1f337937aa2f2fb4516ae7f2c5813b02c44e3f74"
+      resolved-ref: "062634c74bc84665cdf7229336941592ddd6e026"
       url: "git@github.com:ditman/plugins.git"
     source: git
     version: "0.5.28+2"
@@ -121,7 +121,7 @@ packages:
     description:
       path: "packages/google_maps_flutter/google_maps_flutter_web"
       ref: gmaps-web
-      resolved-ref: "1f337937aa2f2fb4516ae7f2c5813b02c44e3f74"
+      resolved-ref: "062634c74bc84665cdf7229336941592ddd6e026"
       url: "git@github.com:ditman/plugins.git"
     source: git
     version: "0.1.0"
